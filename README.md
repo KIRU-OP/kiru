@@ -157,10 +157,8 @@ status   : "Always building something 🚧"
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@AmShashank-0d0d0d?style=for-the-badge&logo=telegram&logoColor=00BFFF&labelColor=0d0d0d)](https://t.me/AmShashank)
+[![Telegram](https://img.shields.io/badge/Telegram-@kiru_op-0d0d0d?style=for-the-badge&logo=telegram&logoColor=00BFFF&labelColor=0d0d0d)](https://t.me/kiru-op)
 [![GitHub](https://img.shields.io/badge/GitHub-@itzshukla-0d0d0d?style=for-the-badge&logo=github&logoColor=FF6B00&labelColor=0d0d0d)](https://github.com/itzshukla)
-[![GitLab](https://img.shields.io/badge/GitLab-@itzshukla-0d0d0d?style=for-the-badge&logo=gitlab&logoColor=FF6B00&labelColor=0d0d0d)](https://gitlab.com/itzshukla)
-[![Email](https://img.shields.io/badge/Email-shashankstranger@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=0d0d0d)](mailto:shashankstranger@gmail.com)
 
 </div>
 
